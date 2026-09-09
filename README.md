@@ -53,7 +53,7 @@
 
 <hr>
 
-<h2><stron>✍️ 𝐌𝐲 𝐏𝐡𝐫𝐚𝐬𝐞 𝐛𝐲 𝐔𝐫𝐢𝐞𝐥</stron></h2>
+<h2><strong>✍️ 𝐌𝐲 𝐏𝐡𝐫𝐚𝐬𝐞 𝐛𝐲 𝐔𝐫𝐢𝐞𝐥</strong></h2>
 
 <ul>
   <li>🧠 Learning to program is the best tool for thinking.</li>
